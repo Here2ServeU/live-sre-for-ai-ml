@@ -2,7 +2,7 @@
 
 Measure what users feel, alert only on real burns, and stop the bleeding first.
 
-**Free · Live · 30 minutes · Mondays and Thursdays, 7:30 PM Central** · with Emmanuel N. ([Transformed 2 Succeed](https://transformed2succeed.com))
+**When a live session is scheduled, I will let you know.** To stay in the loop, subscribe to the YouTube channel **Build with Emmanuel** or join our community group on [WhatsApp](https://whatsapp.com/channel/0029VbDPpGUG8l5LTOJB0F2H).
 
 ### [Register free on Zoom](https://us06web.zoom.us/meeting/register/fT235rLjQaihJYrWj2_vjw)
 
