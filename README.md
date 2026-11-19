@@ -2,11 +2,9 @@
 
 Measure what users feel, alert only on real burns, and stop the bleeding first.
 
-**When a live session is scheduled, I will let you know.** To stay in the loop, subscribe to the YouTube channel **Build with Emmanuel** or join our community group on [WhatsApp](https://whatsapp.com/channel/0029VbDPpGUG8l5LTOJB0F2H).
+Free live sessions with Emmanuel N. ([Transformed 2 Succeed](https://transformed2succeed.com)).
 
-### [Register free on Zoom](https://us06web.zoom.us/meeting/register/fT235rLjQaihJYrWj2_vjw)
-
-Register once and you're in for every session. Zoom emails you the join link and reminders. Bring your questions: every session ends with live Q&A.
+**When a live session is scheduled, I will let you know.** To stay in the loop, subscribe to the YouTube channel **Build with Emmanuel** or join our community group on [WhatsApp](https://whatsapp.com/channel/0029VbDPpGUG8l5LTOJB0F2H). Bring your questions: every session ends with live Q&A.
 
 ## Watch the recordings
 
@@ -71,18 +69,18 @@ python3 deploy.py v1 && python3 load.py --requests 300
 
 ## All free live sessions
 
-A different course every session. The rotation repeats every 4 weeks, so if you miss one, it comes back around.
+A different course every session. New dates are announced on YouTube and WhatsApp.
 
-| Week | Day | Course |
-|---|---|---|
-| Week 1 | Monday | [Linux for AI-ML Systems](https://github.com/Here2ServeU/live-linux-for-ai-ml) |
-| Week 1 | Thursday | [Python for AI-ML](https://github.com/Here2ServeU/live-python-for-ai-ml) |
-| Week 2 | Monday | [Zero to AI-ML Systems Engineering](https://github.com/Here2ServeU/live-zero-to-ai-ml) |
-| Week 2 | Thursday | [DevOps for AI-ML Systems](https://github.com/Here2ServeU/live-devops-for-ai-ml) |
-| Week 3 | Monday | **SRE for AI-ML Systems** (you are here) |
-| Week 3 | Thursday | [GPU Optimization for AI-ML Systems](https://github.com/Here2ServeU/live-gpu-optimization-for-ai-ml) |
-| Week 4 | Monday | [FinOps for AI-ML Systems](https://github.com/Here2ServeU/live-finops-for-ai-ml) |
-| Week 4 | Thursday | [AI Agent Operations](https://github.com/Here2ServeU/live-ai-agent-operations) |
+| Course |
+|---|
+| [Linux for AI-ML Systems](https://github.com/Here2ServeU/live-linux-for-ai-ml) |
+| [Python for AI-ML](https://github.com/Here2ServeU/live-python-for-ai-ml) |
+| [Zero to AI-ML Systems Engineering](https://github.com/Here2ServeU/live-zero-to-ai-ml) |
+| [DevOps for AI-ML Systems](https://github.com/Here2ServeU/live-devops-for-ai-ml) |
+| **SRE for AI-ML Systems** (you are here) |
+| [GPU Optimization for AI-ML Systems](https://github.com/Here2ServeU/live-gpu-optimization-for-ai-ml) |
+| [FinOps for AI-ML Systems](https://github.com/Here2ServeU/live-finops-for-ai-ml) |
+| [AI Agent Operations](https://github.com/Here2ServeU/live-ai-agent-operations) |
 
 ## Want the full course?
 
